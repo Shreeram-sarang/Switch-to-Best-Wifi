@@ -16,4 +16,4 @@ Please note that this project is still under development and may not yet be suit
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Shreeram-sarang/Switch-to-Best-Wifi
+https://github.com/Shreeram-sarang/Switch-to-Best-Wifi
